@@ -1,5 +1,6 @@
 1
 2
+feature2 made some changes
 feature2 made some changes too
 3
 feature3 made some changes
