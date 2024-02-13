@@ -1,5 +1,6 @@
 1
 2
+feature2 made some changes too
 3
 4
 5
