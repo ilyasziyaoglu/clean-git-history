@@ -7,3 +7,5 @@ feature3 made some changes
 4
 5
 feature1 made some changes
+feature1 made some changes too
+feature1 made some changes too 2
